@@ -33,7 +33,7 @@ Begin to triage support tickets by navigating to the Tickets tab. All the ticket
 ![tkt-triage-1](https://github.com/NicholasLudwig/ticket-lifecycle/assets/104456331/2d3d1d66-0da9-4899-b28f-ef34c65387a2)
 
 <p>
-After the ticket has been properly prioritized and assigned to the relevant support agent(s), the process of working toward a solution begins. 
+After the ticket has been properly prioritized and assigned to the relevant support agent(s), the process of working toward a solution begins. Support agents are not only responsible for addressing the issue but also for maintaining clear communication regarding the process of the solution. This entails posting regular updates and replies within the ticket thread to ensure that all involved parties have access to the most current information.
 </p>
 <br />
 
