@@ -40,7 +40,7 @@ Once the ticket has been appropriately prioritized and assigned the support agen
 ![tickets-thread](https://github.com/NicholasLudwig/ticket-lifecycle/assets/104456331/65753649-11e0-4463-b571-60591b1ba833)
 
 <p>
-In the scenario of a critical mobile banking outage, it may be necessary to transfer the ticket to a specialized and capable team, such as System Administrators, to address the complex technical issues effectively. 
+In the scenario of a critical mobile banking outage (like the one above), it may be necessary to transfer the ticket to a specialized and capable team, such as System Administrators, to address the complex technical issues effectively. Once a solution is identified and implemented, and the problem is resolved, the final step is to ensure that the Ticket Status is updated accurately to reflect the completion and resolution of the issue. This ensures that the ticket is appropriately closed and documented for future reference.
 </p>
 <br />
 
