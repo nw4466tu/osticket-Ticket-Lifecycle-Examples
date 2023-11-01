@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This repository outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
+The purpose of this repository is to provide a detailed overview of the entire lifecycle of a support ticket, beginning from it's initial intake and progressing through to it's ultimate resolution. This comprehensive guide is specifically tailored to the open-source help desk ticketing system, osTicket. <br />
 
 <h2>Environments and Technologies Used</h2>
 
