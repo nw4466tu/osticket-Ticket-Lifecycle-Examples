@@ -33,7 +33,7 @@ Begin to triage support tickets by navigating to the Tickets tab. All the ticket
 ![tkt-triage-1](https://github.com/NicholasLudwig/ticket-lifecycle/assets/104456331/2d3d1d66-0da9-4899-b28f-ef34c65387a2)
 
 <p>
-Once the ticket has been appropriately prioritized and assigned the support agent(s) can begin working towards a solution. The support agent(s) can also post replies to the ticket thread so the ticket has the most up to date information on the progress of the solution. In the case of a mobile banking outage the ticket would likely be transferred to a more capable team, such as System Administrators. Once a solution is found and the ticket is resolved, simply update the Ticket Status appropriately.
+After the ticket has been properly prioritized and assigned to the relevant support agent(s), the process of working toward a solution begins. 
 </p>
 <br />
 
