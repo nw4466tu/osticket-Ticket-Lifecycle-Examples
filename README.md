@@ -39,6 +39,9 @@ Once the ticket has been appropriately prioritized and assigned the support agen
 
 ![tickets-thread](https://github.com/NicholasLudwig/ticket-lifecycle/assets/104456331/65753649-11e0-4463-b571-60591b1ba833)
 
+<p>
+In the scenario of a critical mobile banking outage, it may be necessary to transfer the ticket to a specialized and capable team, such as System Administrators, to address the complex technical issues effectively. 
+</p>
 <br />
 
 ![tkt-triage-reply](https://github.com/NicholasLudwig/ticket-lifecycle/assets/104456331/7ece262f-b1c7-4e08-8f25-914c6c8617bc)
