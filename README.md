@@ -26,7 +26,7 @@ The purpose of this repository is to provide a detailed overview of the entire l
 <h2>Lifecycle Stages</h2>
 
 <p>
-To initiate the support ticket triage process, access the "Tickets" tab where all submitted tickets are centralized. 
+To initiate the support ticket triage process, access the "Tickets" tab where all submitted tickets are centralized. The tickets are conveniently organized within small drop-down tabs, including "Open," "My Tickets" (for those assigned to specific support agents), "Closed," and "Search" to facilitate quick access.
 </p>
 <br />
 
