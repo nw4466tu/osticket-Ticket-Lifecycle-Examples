@@ -26,7 +26,7 @@ The purpose of this repository is to provide a detailed overview of the entire l
 <h2>Lifecycle Stages</h2>
 
 <p>
-To initiate the support ticket triage process, access the "Tickets" tab where all submitted tickets are centralized. The tickets are conveniently organized within small drop-down tabs, including "Open," "My Tickets" (for those assigned to specific support agents), "Closed," and "Search" to facilitate quick access.
+To initiate the support ticket triage process, access the "Tickets" tab where all submitted tickets are centralized. The tickets are conveniently organized within small drop-down tabs, including "Open," "My Tickets" (for those assigned to specific support agents), "Closed," and "Search" to facilitate quick access. After selecting a specific ticket for triage, proceed by appropriately assigning it to the relevant department or team. Additionally, ensure the ticket's priority and Service Level Agreements (SLAs) are updated accurately to reflect the urgency and response time required. For example, a ticket detailing a critical mobile banking system outage would be classified as SEV-A, given it's potential to disrupt revenue generation and lead to customer dissatisfaction, making prompt resolution imperative.
 </p>
 <br />
 
